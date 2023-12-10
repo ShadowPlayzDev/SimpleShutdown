@@ -10,4 +10,4 @@ Step 4: Name the Shortcut to whatever you want, I recommend "`SimpleShutdown`"
 # Our GitHub Repositorys
 [SimpleShutdown](https://github.com/ShadowPlayzDev/SimpleShutdown) [SimpleRestart](https://github.com/ShadowPlayzDev/SimpleRestart) [SimpleLogoff](https://github.com/ShadowPlayzDev/SimpleLogoff) [SimpleHybridShutdown](https://github.com/ShadowPlayzDev/SimpleHybridShutdown)
 ## Other Repositorys by ShadowPlayzDev
-[null](github.com/ShadowPlayzDev/SimpleShutdown/)
+[null](README.md)
